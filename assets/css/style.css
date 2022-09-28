@@ -244,13 +244,12 @@ div a img {
     transition: .5s ease;
 }
 
-/* hover effect on greyed images */
+/* hover effect on images */
 div a img:hover {
     opacity: 1;
 }
 
-/* ############################ */
-/* Media Selector */
+/* Media Selector to adjust for any screen size*/
 
 @media screen and (max-width: 1035px) {
     header {
