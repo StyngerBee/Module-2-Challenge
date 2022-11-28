@@ -6,8 +6,8 @@ This is my portfolio, created in order to show for all my progress throughout my
 
 ## Table of Contents
 
-- [Installation]
-- [Usage]
+- Installation
+- Usage
 - [Credits]
 - [License]
 
